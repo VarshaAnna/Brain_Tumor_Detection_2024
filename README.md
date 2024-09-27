@@ -9,4 +9,4 @@
 
 **Utilizing the Brain Tumor Segmentation (BraTS) 2020 dataset and specifically leveraging the T2 Fluid Attenuated Inversion Recovery (T2-FLAIR) MRI modality, this research draws from a larger and more diverse patient dataset to improve the model's generalization and robustness against local heterogeneity brain structure and tumor characteristics.**
 
-**The Simulation shows that the Random Forest classifier achieve the precision scores of about 95.35%. They also achieve the F1-score of about 95.34%.The test results of the predictions across other volumetric dataset demonstrate similarly strong performances.​**
+**The Simulation shows that the Random Forest classifier achieve the precision scores of about 92%. They also achieve the F1-score of about 92%.The test results of the predictions across other volumetric dataset demonstrate similarly strong performances.​**
