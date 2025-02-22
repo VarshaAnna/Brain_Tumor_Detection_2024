@@ -1,12 +1,10 @@
-# Brain_Tumor_Detection_2024
- Pixel based brain tumor detection with 14 image filters feature extraction technique.
+# Pixel-Based Brain Tumor Detection Using MRI Scans
 
 ### Abstract
 
-**Accurate granular detection of Brain tumor region from a MRI scans is crucial for neurologists to pinpoint the affected part of the brain. As a result, there is a continuous need to enhance machine learning model for tumor classification, ensuring precision and generalization across different patient dataset.​**
+**Pixel Based Machine Learning technique manages each pixel as a data point from a Magnetic Resonance Image (MRI) scan for analysis and classification. Considering the Brain Tumor detection application, it is important that we identify details and analyze each pixel in isolation to pinpoint every minute and irregularly shaped affected region of the brain. As a result, to build such a machine learning model, in reality we have a need for significant amount of data of multiple subjects, ensuring precision and generalization. However, Pixel
+Based Brain Tumor Detection with MRI data of multiple subjects can be a root of significant discrepancies in special context and is susceptible to noise due to the heterogeneity of
+brain structures and tumor characteristics. And hence to handle such complications we need Machine Learning Technique that is trained in such an environment.**
 
-**In previous work, the study utilized the image filtering-based feature extraction techniques using 8 image filters alongside a pixel-based brain tumor detection technique on a single volumetric dataset from BraTS 2015 dataset. To build on this, Our current research has integrated 6 additional image filters, enhancing the feature extraction process across multiple volumetric dataset, making the study more robust.​**
+**In this paper, we utilized the image filtering-based feature extraction techniques using 10 image filters alongside a pixelbased brain tumor detection technique where the model is trained using Random Forest classifier on multiple subjects so that it can predict tumor independent to brain structure.**
 
-**Utilizing the Brain Tumor Segmentation (BraTS) 2020 dataset and specifically leveraging the T2 Fluid Attenuated Inversion Recovery (T2-FLAIR) MRI modality, this research draws from a larger and more diverse patient dataset to improve the model's generalization and robustness against local heterogeneity brain structure and tumor characteristics.**
-
-**The Simulation shows that the Random Forest classifier achieve the precision scores of about 92%. They also achieve the F1-score of about 92%.The test results of the predictions across other volumetric dataset demonstrate similarly strong performances.​**
