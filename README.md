@@ -32,7 +32,7 @@ The dataset consists of volumetric MRI scans, processed as follows:
 - Feature Space Construction: Extracted 14 image features for tumor detection.
   ![Image processing filters]<img src="https://github.com/VarshaAnna/Brain_Tumor_Detection_2024/blob/main/Final%20report%20images/Image%20processing%20Filters.png?raw=true" width="500">
   
-  ![Image processing Tech.]<img src="https://github.com/VarshaAnna/Brain_Tumor_Detection_2024/blob/main/Final%20report%20images/Image%20processing%20tech..png?raw=true" width="500">
+  ![Image processing Tech]<img src="https://github.com/VarshaAnna/Brain_Tumor_Detection_2024/blob/main/Final%20report%20images/Image%20processing%20tech..png?raw=true" width="500">
  
 - Balanced Feature Space: Matched tumor and non-tumor sample sizes to prevent bias.
   ![Balancing Feature Space]<img src="https://github.com/VarshaAnna/Brain_Tumor_Detection_2024/blob/main/Final%20report%20images/Balancing%20dataset.png?raw=true" width="500">
