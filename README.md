@@ -27,7 +27,7 @@ Brain tumors are among the most critical neurological conditions requiring preci
 
 The dataset consists of volumetric MRI scans, processed as follows:
 - Segmentation Extraction: Isolated enhancing tumor regions from segmentation masks.
-  (Image)
+  ![Enhancing Tumor, 4th Lable](VarshaAnna/Brain_Tumor_Detection_2024/Final report images/label4.png)
 - Feature Space Construction: Extracted 14 image features for tumor detection.
   (Image)
 - Balanced Feature Space: Matched tumor and non-tumor sample sizes to prevent bias.
