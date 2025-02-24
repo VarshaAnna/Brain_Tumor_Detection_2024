@@ -60,3 +60,9 @@ Here are the 14 filters applied for feature extraction:
 **Model Performance**
 
 We evaluated the performance of the Random Forest classifier on multiple volumetric datasets.
+
+**Conclusion**
+
+- The 8-feature space surprisingly outperformed the 14-feature space, possibly due to noise introduced by additional features.
+- The Random Forest model demonstrated strong generalization across multiple volumetric datasets.
+- Future work includes testing with deep learning models and further feature selection techniques to refine tumor classification.
