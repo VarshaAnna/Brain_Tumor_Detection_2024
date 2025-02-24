@@ -51,11 +51,11 @@ Here are the 14 filters applied for feature extraction:
 - Median filter
 - Bilateral filter
 
-![Image processing filters]<img src="https://github.com/VarshaAnna/Brain_Tumor_Detection_2024/blob/main/Final%20report%20images/Image%20processing%20Filters.png?raw=true" width="500">
+<img src="https://github.com/VarshaAnna/Brain_Tumor_Detection_2024/blob/main/Final%20report%20images/Image%20processing%20Filters.png?raw=true" width="500">
 
 **Methodology**
 
-![Methodology]<img src="https://github.com/VarshaAnna/Brain_Tumor_Detection_2024/blob/main/Final%20report%20images/Brain%20tumor%20detection%20flowchart%20(1).png?raw=true" width="500">
+<img src="https://github.com/VarshaAnna/Brain_Tumor_Detection_2024/blob/main/Final%20report%20images/Brain%20tumor%20detection%20flowchart%20(1).png?raw=true" width="500">
 
 **Model Performance**
 
