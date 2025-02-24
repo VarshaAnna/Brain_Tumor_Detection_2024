@@ -8,6 +8,7 @@ Based Brain Tumor Detection with MRI data of multiple subjects can be a root of 
 brain structures and tumor characteristics. And hence to handle such complications we need Machine Learning Technique that is trained in such an environment.**
 
 **In this paper, we utilized the image filtering-based feature extraction techniques using 10 image filters alongside a pixelbased brain tumor detection technique where the model is trained using Random Forest classifier on multiple subjects so that it can predict tumor independent to brain structure.**
+
 --------------------------------------------------------------------------------------------------
 
 **Project Overview**
